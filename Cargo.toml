@@ -3,6 +3,8 @@ name = "ecopay2"
 version = "0.1.0"
 authors = ["Taariq Levack <taariql@gmail.com>"]
 edition = "2018"
+license = "Apache-2.0"
+description = "Test project on regen/cosmos with cosmwasm"
 
 exclude = [
   # Those files are cosmwasm-opt artifacts. You might want to commit them for convenience but they should not be part of the source code publication.
